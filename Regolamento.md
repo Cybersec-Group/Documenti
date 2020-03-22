@@ -9,3 +9,5 @@ Al fine di supportare discussioni costruttive, mantenere un livello minimo di de
 - Fare domande la cui risposta può essere trovata su Google.
 - Usare nick non appropriati come [0-9a-zA-Z_\-\. ] (a discrezione).
 - Insultare, discriminare, spammare (Canali/Gruppi/Bot ect) senza autorizzazione, porno, file infetti.
+
+*[In aggiornamento]*
